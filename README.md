@@ -1,6 +1,6 @@
 <h1 align="center">Hi There 👋, I'm Santiago Reez</h1>
 <h3 align="center">Software Developer from Colombia</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/ITc1hNBSH_wAAAAd/coding-typing.gif">
+<img align="right" alt="Coding" width="500" src="https://media.tenor.com/VF8oy4z4T5kAAAAC/code-geass-lloyd.gif">
 
 <p align="left"> <a href="https://twitter.com/tiagoreez" target="blank"><img src="https://img.shields.io/twitter/follow/tiagoreez?logo=twitter&style=for-the-badge" alt="tiagoreez" /></a> </p>
 
