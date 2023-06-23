@@ -4,9 +4,9 @@
 
 <p align="left"> <a href="https://twitter.com/tiagoreez" target="blank"><img src="https://img.shields.io/twitter/follow/tiagoreez?logo=twitter&style=for-the-badge" alt="tiagoreez" /></a> </p>
 
-- 🔭 I'm currently not working but **Searching new projects**
+- 🔭 I'm currently creating new projects
 
-- 🛹 I’m currently learning **Web development**
+- 🛹 I’m currently learning **Backend development**
 
 - 📫 How to reach me **tiagorpo8@gmail.com**
 
