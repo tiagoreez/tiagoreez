@@ -12,7 +12,6 @@
 <p align="left">
 <a href="https://twitter.com/tiagoreez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tiagoreez" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/santiago-reez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santiago reez" height="30" width="40" /></a>
-<a href="https://instagram.com/tiagoreez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tiagoreez" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCpFK4DnwfCwe4Q01beQ1VDw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="santiago reez" height="30" width="40" /></a>
 </p>
 
